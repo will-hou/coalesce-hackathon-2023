@@ -34,3 +34,6 @@ models:
 
 vars:
   "dbt_date:time_zone": "America/Los_Angeles"
+
+# dbt-cloud:
+#   project-id: XXXXXX
