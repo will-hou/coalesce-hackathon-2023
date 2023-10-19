@@ -1,3 +1,4 @@
 logs/dbt.log
 target
 .DS_Store
+dbt_packages/
